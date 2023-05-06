@@ -1,0 +1,13 @@
+D:\Dayton\Personal Projects\C# Projects\Exquisite Corpse\bin\Debug\netcoreapp3.1\Exquisite Corpse.exe
+D:\Dayton\Personal Projects\C# Projects\Exquisite Corpse\bin\Debug\netcoreapp3.1\Exquisite Corpse.deps.json
+D:\Dayton\Personal Projects\C# Projects\Exquisite Corpse\bin\Debug\netcoreapp3.1\Exquisite Corpse.runtimeconfig.json
+D:\Dayton\Personal Projects\C# Projects\Exquisite Corpse\bin\Debug\netcoreapp3.1\Exquisite Corpse.runtimeconfig.dev.json
+D:\Dayton\Personal Projects\C# Projects\Exquisite Corpse\bin\Debug\netcoreapp3.1\Exquisite Corpse.dll
+D:\Dayton\Personal Projects\C# Projects\Exquisite Corpse\bin\Debug\netcoreapp3.1\Exquisite Corpse.pdb
+D:\Dayton\Personal Projects\C# Projects\Exquisite Corpse\obj\Debug\netcoreapp3.1\Exquisite Corpse.csprojAssemblyReference.cache
+D:\Dayton\Personal Projects\C# Projects\Exquisite Corpse\obj\Debug\netcoreapp3.1\Exquisite Corpse.AssemblyInfoInputs.cache
+D:\Dayton\Personal Projects\C# Projects\Exquisite Corpse\obj\Debug\netcoreapp3.1\Exquisite Corpse.AssemblyInfo.cs
+D:\Dayton\Personal Projects\C# Projects\Exquisite Corpse\obj\Debug\netcoreapp3.1\Exquisite Corpse.csproj.CoreCompileInputs.cache
+D:\Dayton\Personal Projects\C# Projects\Exquisite Corpse\obj\Debug\netcoreapp3.1\Exquisite Corpse.dll
+D:\Dayton\Personal Projects\C# Projects\Exquisite Corpse\obj\Debug\netcoreapp3.1\Exquisite Corpse.pdb
+D:\Dayton\Personal Projects\C# Projects\Exquisite Corpse\obj\Debug\netcoreapp3.1\Exquisite Corpse.genruntimeconfig.cache
